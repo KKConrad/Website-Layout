@@ -1,0 +1,241 @@
+body {
+    background: white;
+    font-family: Cabin;
+}
+
+.heading {
+    height:40px;
+    background-color: deeppink;
+    font-family: sans-serif;
+    text-align: center;
+}
+.supermariotop{
+    width: 1180;
+    height: 600px;
+    margin:0 auto;
+    background: url(http://i.imgur.com/HcjtRYW.png) no-repeat;
+}
+
+.header-logo {
+    padding-left: 100px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.nav {
+    margin-left: 375px;
+    font-size: 25px;
+    display: inline-block;
+    vertical-align: top;
+}
+.navlogo {
+    padding-top: 100px;
+}
+.navitem {
+    color: white;
+    padding: 0px 15px;
+}
+.menu {
+    float: right;
+}
+.main-text {
+    color: white;
+    font-size: 37px;
+    margin-top: 180px;
+    padding-left: 70px;
+    width: 950;
+}
+.main-subtext {
+    font-size: 17px;
+}
+.italics {
+    font-style: italic;
+}
+.titletext {
+    margin-top: 30%;
+}
+
+.teal {
+    color: #25aa99;;
+}
+
+.white {
+    color: white;
+}
+
+.tealcontainer {
+    width: 1000px;
+    margin:0 auto;
+    border-radius: 5px;
+    padding: 1em;
+    background-color: #25aa99;
+}
+.notificationtext {
+    padding-left: 5px;
+}
+
+.closeicon {
+    float: right;
+    padding-top: 5px;
+}
+
+.tealcontaineremail {
+    width: 1180px;
+    height: 50px;
+    max-height: 50px;
+    text-align: center;
+    margin:0 auto;
+    border-radius: 5px;
+    padding: 1em;
+    background-color: #25aa99;
+}
+
+.divbutton {
+    width:100%;
+    height:50%;
+    border-color:#6495ED;
+    background-color:#BCD2EE;
+    border-style:solid;
+    font-size: 20px;
+    margin-left: 200px;
+    margin-right: 400px
+}
+
+.container {
+    text-align: justify;
+    margin:0 auto;
+    border-radius: 5px;
+    padding: 1em;
+    width: 1020px;
+}
+
+.event-panel {
+    width: 240px;
+    display: inline-block;
+    padding-right: 16px;
+}
+
+.farrightpanel {
+    padding-right: 0px;
+}
+
+.picturepaddingthree {
+    align-content: center;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 2px 5px rgba(0,0,0,1);
+}
+
+.map {
+    border-radius: 10px;
+    box-shadow: 3px 2px 5px rgba(0,0,0,1);
+}
+
+.email-text {
+    border-radius: 7px;
+    width: 350px;
+    height: 40px;
+    padding: 5px 5px 5px 40px;
+    margin: 8px 0 0 0;
+    background-color: white;
+    background: url(subscription_email_icon.gif) no-repeat scroll 10px white;
+}
+
+.subscribe-button {
+    border: 0;
+    margin: 7px;
+    border-radius: 7px;
+    padding-bottom: 8px;
+    padding-top: 4;
+    width: 175;
+    height: 37px;
+    background-color: #dac26c;
+    color: white;
+    font-size: 18;
+}
+
+
+.bottomcontainer {
+    text-align: justify;
+    margin:0 auto;
+    border-radius: 5px;
+    padding: 1em;
+    width: 1020px;
+    padding-top: 40px;
+}
+.bottom-logo {
+    padding: 5px;
+    background-color: blue;
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 8px;
+    border-radius: 10px;
+}
+.services-panel {
+    width: 100px;
+    margin-left: 100px;
+    vertical-align: top;
+    display: inline-block;
+    padding-right: 70px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.centermap {
+    width: 350px;
+    display: inline-block;
+    height: 225px;
+}
+
+.services-panel-right {
+    width: 220px;
+    margin-left: 30px;
+    vertical-align: top;
+    display: inline-block;
+    padding-left: 10px;
+    font-size: 18px;
+    margin-top: 6px;
+}
+
+.email-us-button {
+    border: 0;
+    margin-top: 58px;
+    border-radius: 7px;
+    padding: 8px;
+    background-color: #dac26c;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 115;
+}
+
+.no-margin-text-copyright {
+    -webkit-margin-after: 0px;
+}
+.no-margin-text {
+    -webkit-margin-before: 0px;
+}
+.content {
+    width: 1000px;
+}
+
+.goomba {
+    width: 1000px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bigtext {
+    font-size: 16px;
+}
+
+.panel-content {
+    margin: 5px 0;
+}
+
+.font-grey {
+    color: grey;
+}
