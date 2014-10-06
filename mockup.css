@@ -116,7 +116,9 @@ body {
     display: inline-block;
     padding-right: 16px;
 }
-
+.event-picture {
+    border-radius: 10px;
+}
 .farrightpanel {
     padding-right: 0px;
 }
