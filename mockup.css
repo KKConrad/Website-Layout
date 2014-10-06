@@ -24,6 +24,7 @@ body {
 
 .nav {
     margin-left: 375px;
+    margin-left: 375px;
     font-size: 25px;
     display: inline-block;
     vertical-align: top;
@@ -88,6 +89,7 @@ body {
     border-radius: 5px;
     padding: 1em;
     background-color: #25aa99;
+    padding-bottom: 23px;
 }
 
 .divbutton {
